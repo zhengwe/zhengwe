@@ -1,6 +1,6 @@
 ### Hi zhengwe 👋
 
-**zhengwe/zhengwe** is a ✨ _special_ ✨ repository appears on your GitHub profile.
+**zhengwe** is a ✨ _special_ ✨ repository appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
