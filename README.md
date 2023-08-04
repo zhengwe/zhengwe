@@ -6,6 +6,4 @@ Here are some ideas to get you started:
 
 ---
 
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true)
-
-***
+![zhengwe's github stats](https://github-readme-stats.vercel.app/api?username=zhengwe&show_icons=true&theme=radical&include_all_commits=true)
